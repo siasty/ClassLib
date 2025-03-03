@@ -1,0 +1,11 @@
+C:\Users\Maciej\source\repos\ClassInterfaces\bin\Debug\net8.0\ClassInterfaces.deps.json
+C:\Users\Maciej\source\repos\ClassInterfaces\bin\Debug\net8.0\ClassInterfaces.dll
+C:\Users\Maciej\source\repos\ClassInterfaces\bin\Debug\net8.0\ClassInterfaces.pdb
+C:\Users\Maciej\source\repos\ClassInterfaces\obj\Debug\net8.0\ClassInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciej\source\repos\ClassInterfaces\obj\Debug\net8.0\ClassInterfaces.AssemblyInfoInputs.cache
+C:\Users\Maciej\source\repos\ClassInterfaces\obj\Debug\net8.0\ClassInterfaces.AssemblyInfo.cs
+C:\Users\Maciej\source\repos\ClassInterfaces\obj\Debug\net8.0\ClassInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\source\repos\ClassInterfaces\obj\Debug\net8.0\ClassInterfaces.dll
+C:\Users\Maciej\source\repos\ClassInterfaces\obj\Debug\net8.0\refint\ClassInterfaces.dll
+C:\Users\Maciej\source\repos\ClassInterfaces\obj\Debug\net8.0\ClassInterfaces.pdb
+C:\Users\Maciej\source\repos\ClassInterfaces\obj\Debug\net8.0\ref\ClassInterfaces.dll
