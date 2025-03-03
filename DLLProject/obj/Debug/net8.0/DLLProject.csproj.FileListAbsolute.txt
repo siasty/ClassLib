@@ -1,0 +1,15 @@
+C:\Users\Maciej\source\repos\DLLProject\bin\Debug\net8.0\DLLProject.deps.json
+C:\Users\Maciej\source\repos\DLLProject\bin\Debug\net8.0\DLLProject.dll
+C:\Users\Maciej\source\repos\DLLProject\bin\Debug\net8.0\DLLProject.pdb
+C:\Users\Maciej\source\repos\DLLProject\bin\Debug\net8.0\ClassInterfaces.dll
+C:\Users\Maciej\source\repos\DLLProject\bin\Debug\net8.0\ClassInterfaces.pdb
+C:\Users\Maciej\source\repos\DLLProject\obj\Debug\net8.0\DLLProject.csproj.AssemblyReference.cache
+C:\Users\Maciej\source\repos\DLLProject\obj\Debug\net8.0\DLLProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciej\source\repos\DLLProject\obj\Debug\net8.0\DLLProject.AssemblyInfoInputs.cache
+C:\Users\Maciej\source\repos\DLLProject\obj\Debug\net8.0\DLLProject.AssemblyInfo.cs
+C:\Users\Maciej\source\repos\DLLProject\obj\Debug\net8.0\DLLProject.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\source\repos\DLLProject\obj\Debug\net8.0\DLLProject.csproj.Up2Date
+C:\Users\Maciej\source\repos\DLLProject\obj\Debug\net8.0\DLLProject.dll
+C:\Users\Maciej\source\repos\DLLProject\obj\Debug\net8.0\refint\DLLProject.dll
+C:\Users\Maciej\source\repos\DLLProject\obj\Debug\net8.0\DLLProject.pdb
+C:\Users\Maciej\source\repos\DLLProject\obj\Debug\net8.0\ref\DLLProject.dll
